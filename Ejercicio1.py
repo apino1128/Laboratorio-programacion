@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+hola import matplotlib.pyplot as plt
 # Preguntamos por el año inicial
 inicio = int(input('Introduce el año inicial: '))
 # Preguntamos por el año final
